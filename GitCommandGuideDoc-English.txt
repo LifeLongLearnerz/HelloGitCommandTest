@@ -1,0 +1,5 @@
+=  Git Guide (basic usage) ====================================================
+Reference: http://gitimmersion.com/
+           http://try.github.com/levels/1/challenges/1
+
+==============================================================================

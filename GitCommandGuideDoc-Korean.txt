@@ -1,6 +1,7 @@
- Git 활용 (기본적인 사용법)
-http://gitimmersion.com/
-http://try.github.com/levels/1/challenges/1
+= Git 활용 (기본적인 사용법) =================================================
+Reference: http://gitimmersion.com/
+           http://try.github.com/levels/1/challenges/1
+==============================================================================
 
 * 설정 
 git config --global user.name "Jaehong Park"
