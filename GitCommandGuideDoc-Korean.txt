@@ -1,3 +1,11 @@
+##############################################################################
+# file name : GitCommandGuideDoc-Korean.txt
+# Creator   : Jaehong Park
+# Email     : jaehong1972@gmail.com
+# Reference : http://jeremyko.blogspot.kr/2012/07/git.html
+# Ref.Owner : jeremyko69@gmail.com
+##############################################################################
+
 = Git 활용 (기본적인 사용법) =================================================
 Reference: http://gitimmersion.com/
            http://try.github.com/levels/1/challenges/1
