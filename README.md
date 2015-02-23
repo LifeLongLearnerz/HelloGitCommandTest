@@ -18,5 +18,7 @@ On this project, the files are as followings:
  3. TOTOJOB : Describe the jobs for go further on this project.
  4. GitCommandGuideDoc-Korean.txt : Guide Git commands in Korean.
  5. GitCommandGuideDoc-English.txt: Guide Git commands in English.
-
+ 6. Source file: HelloWorld.c
+ 7. Makefile
+# 8. Source file: HelloWorld.cpp
 
